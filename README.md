@@ -6,12 +6,12 @@ CVAE-Opt learns a continuous latent search space for routing problems that can b
 
 ### Instances 
 
-The instances used for the experiments in the paper can be found in the folder "instances".  They have been generated with the generator from https://github.com/wouterkool/attention-learn-to-route. We also provide the large training instances sets and the generated, corresponding high-quality solutions using  Git Large File Storage (LFS). If you do not have Git LFS installed, you can also download the files manually. 
+The instances used for the experiments in the paper can be found in the folder "instances".  The test instances have been generated with the generator from https://github.com/wouterkool/attention-learn-to-route. We also provide the large training instance sets and the generated, corresponding high-quality solutions using  Git Large File Storage (LFS). If you do not have Git LFS installed, you can also download the files manually. 
 
 ### Paper
 ```
 @inproceedings{hottung2020learning,
-  title={Learning a Latent Search Space for Routing Problems using Variational    Autoencoders},
+  title={Learning a Latent Search Space for Routing Problems using Variational Autoencoders},
   author={Hottung, Andr{\'e} and Bhandari, Bhanu and Tierney, Kevin},
   booktitle={International Conference on Learning Representations},
   year={2021}
